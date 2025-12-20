@@ -16,7 +16,7 @@ ANNULMENT = 292
 PERFECT_CHAOS = 4277
 PERFECT_EXALTED = 4285
 
-
+# These are the names of the currencies in the game.
 CURRENCY_NAMES = {
     EXALTED: "Exalted",
     DIVINE: "Divine",
