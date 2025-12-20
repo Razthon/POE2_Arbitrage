@@ -1,0 +1,194 @@
+{
+    "countess-seskes-rune-of-archery": {
+        "itemId": 4061
+    },
+    "hedgewitch-assandras-rune-of-wisdom": {
+        "itemId": 4035
+    },
+    "farruls-rune-of-the-chase": {
+        "itemId": 4043
+    },
+    "courtesan-mannans-rune-of-cruelty": {
+        "itemId": 4055
+    },
+    "saqawals-rune-of-the-sky": {
+        "itemId": 4037
+    },
+    "saqawals-rune-of-memory": {
+        "itemId": 4047
+    },
+    "greater-rune-of-alacrity": {
+        "itemId": 344
+    },
+    "lesser-robust-rune": {
+        "itemId": 4017
+    },
+    "greater-rune-of-tithing": {
+        "itemId": 343
+    },
+    "fenumus-rune-of-agony": {
+        "itemId": 4039
+    },
+    "iron-rune": {
+        "itemId": 325
+    },
+    "the-greatwolfs-rune-of-willpower": {
+        "itemId": 4075
+    },
+    "craiceanns-rune-of-warding": {
+        "itemId": 4045
+    },
+    "thane-lelds-rune-of-spring": {
+        "itemId": 4071
+    },
+    "craiceanns-rune-of-recovery": {
+        "itemId": 4053
+    },
+    "thane-grannells-rune-of-mastery": {
+        "itemId": 4057
+    },
+    "lesser-adept-rune": {
+        "itemId": 4019
+    },
+    "storm-rune": {
+        "itemId": 324
+    },
+    "fenumus-rune-of-spinning": {
+        "itemId": 4059
+    },
+    "lesser-resolve-rune": {
+        "itemId": 4021
+    },
+    "the-greatwolfs-rune-of-claws": {
+        "itemId": 4073
+    },
+    "lesser-iron-rune": {
+        "itemId": 315
+    },
+    "greater-rune-of-leadership": {
+        "itemId": 342
+    },
+    "farruls-rune-of-the-hunt": {
+        "itemId": 4051
+    },
+    "robust-rune": {
+        "itemId": 4023
+    },
+    "resolve-rune": {
+        "itemId": 4027
+    },
+    "lady-hestras-rune-of-winter": {
+        "itemId": 4069
+    },
+    "thane-girts-rune-of-wildness": {
+        "itemId": 4063
+    },
+    "thane-myrks-rune-of-summer": {
+        "itemId": 4067
+    },
+    "lesser-storm-rune": {
+        "itemId": 314
+    },
+    "body-rune": {
+        "itemId": 326
+    },
+    "inspiration-rune": {
+        "itemId": 329
+    },
+    "saqawals-rune-of-erosion": {
+        "itemId": 4049
+    },
+    "greater-iron-rune": {
+        "itemId": 335
+    },
+    "adept-rune": {
+        "itemId": 4025
+    },
+    "glacial-rune": {
+        "itemId": 323
+    },
+    "desert-rune": {
+        "itemId": 322
+    },
+    "fenumus-rune-of-draining": {
+        "itemId": 4065
+    },
+    "greater-resolve-rune": {
+        "itemId": 4033
+    },
+    "lesser-rebirth-rune": {
+        "itemId": 318
+    },
+    "lesser-inspiration-rune": {
+        "itemId": 319
+    },
+    "rebirth-rune": {
+        "itemId": 328
+    },
+    "vision-rune": {
+        "itemId": 331
+    },
+    "stone-rune": {
+        "itemId": 330
+    },
+    "farruls-rune-of-grace": {
+        "itemId": 4041
+    },
+    "greater-rune-of-nobility": {
+        "itemId": 345
+    },
+    "lesser-glacial-rune": {
+        "itemId": 313
+    },
+    "lesser-body-rune": {
+        "itemId": 316
+    },
+    "lesser-desert-rune": {
+        "itemId": 312
+    },
+    "greater-robust-rune": {
+        "itemId": 4029
+    },
+    "greater-adept-rune": {
+        "itemId": 4031
+    },
+    "mind-rune": {
+        "itemId": 327
+    },
+    "greater-body-rune": {
+        "itemId": 336
+    },
+    "greater-inspiration-rune": {
+        "itemId": 339
+    },
+    "greater-rebirth-rune": {
+        "itemId": 338
+    },
+    "greater-vision-rune": {
+        "itemId": 341
+    },
+    "lesser-vision-rune": {
+        "itemId": 321
+    },
+    "lesser-stone-rune": {
+        "itemId": 320
+    },
+    "greater-storm-rune": {
+        "itemId": 334
+    },
+    "greater-desert-rune": {
+        "itemId": 332
+    },
+    "greater-glacial-rune": {
+        "itemId": 333
+    },
+    "lesser-mind-rune": {
+        "itemId": 317
+    },
+    "greater-stone-rune": {
+        "itemId": 340
+    },
+    "greater-mind-rune": {
+        "itemId": 337
+    }
+}

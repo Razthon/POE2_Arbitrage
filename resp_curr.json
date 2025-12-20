@@ -1,0 +1,113 @@
+{
+    "mirror": {
+        "itemId": 295
+    },
+    "hinekoras-lock": {
+        "itemId": 4287
+    },
+    "divine": {
+        "itemId": 291
+    },
+    "perfect-chaos-orb": {
+        "itemId": 4277
+    },
+    "perfect-exalted-orb": {
+        "itemId": 4285
+    },
+    "fracturing-orb": {
+        "itemId": 294
+    },
+    "perfect-jewellers-orb": {
+        "itemId": 4015
+    },
+    "annul": {
+        "itemId": 292
+    },
+    "chance": {
+        "itemId": 285
+    },
+    "perfect-regal-orb": {
+        "itemId": 4281
+    },
+    "greater-chaos-orb": {
+        "itemId": 4275
+    },
+    "greater-exalted-orb": {
+        "itemId": 4283
+    },
+    "perfect-orb-of-augmentation": {
+        "itemId": 4273
+    },
+    "chaos": {
+        "itemId": 287
+    },
+    "bauble": {
+        "itemId": 299
+    },
+    "gcp": {
+        "itemId": 300
+    },
+    "exalted": {
+        "itemId": 290
+    },
+    "greater-jewellers-orb": {
+        "itemId": 4013
+    },
+    "perfect-orb-of-transmutation": {
+        "itemId": 4269
+    },
+    "chance-shard": {
+        "itemId": 279
+    },
+    "transmutation-shard": {
+        "itemId": 278
+    },
+    "etcher": {
+        "itemId": 298
+    },
+    "scrap": {
+        "itemId": 296
+    },
+    "alch": {
+        "itemId": 286
+    },
+    "vaal": {
+        "itemId": 288
+    },
+    "greater-regal-orb": {
+        "itemId": 4279
+    },
+    "artificers": {
+        "itemId": 293
+    },
+    "whetstone": {
+        "itemId": 297
+    },
+    "artificers-shard": {
+        "itemId": 281
+    },
+    "regal-shard": {
+        "itemId": 280
+    },
+    "regal": {
+        "itemId": 289
+    },
+    "lesser-jewellers-orb": {
+        "itemId": 4011
+    },
+    "greater-orb-of-augmentation": {
+        "itemId": 4271
+    },
+    "greater-orb-of-transmutation": {
+        "itemId": 4267
+    },
+    "transmute": {
+        "itemId": 283
+    },
+    "aug": {
+        "itemId": 284
+    },
+    "wisdom": {
+        "itemId": 282
+    }
+}

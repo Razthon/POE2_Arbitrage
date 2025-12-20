@@ -1,0 +1,38 @@
+{
+    "chayulas-catalyst": {
+        "itemId": 407
+    },
+    "neural-catalyst": {
+        "itemId": 401
+    },
+    "sibilant-catalyst": {
+        "itemId": 409
+    },
+    "uul-netols-catalyst": {
+        "itemId": 403
+    },
+    "eshs-catalyst": {
+        "itemId": 406
+    },
+    "carapace-catalyst": {
+        "itemId": 402
+    },
+    "flesh-catalyst": {
+        "itemId": 400
+    },
+    "reaver-catalyst": {
+        "itemId": 408
+    },
+    "tuls-catalyst": {
+        "itemId": 405
+    },
+    "adaptive-catalyst": {
+        "itemId": 411
+    },
+    "skittering-catalyst": {
+        "itemId": 410
+    },
+    "xophs-catalyst": {
+        "itemId": 404
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "rite-of-passage": {
+        "itemId": 5131
+    },
+    "primary-calamity-fragment": {
+        "itemId": 4363
+    },
+    "ancient-crisis-fragment": {
+        "itemId": 309
+    },
+    "secondary-calamity-fragment": {
+        "itemId": 4365
+    },
+    "faded-crisis-fragment": {
+        "itemId": 310
+    },
+    "tertiary-calamity-fragment": {
+        "itemId": 4367
+    },
+    "deadly-fate": {
+        "itemId": 307
+    },
+    "cowardly-fate": {
+        "itemId": 306
+    },
+    "victorious-fate": {
+        "itemId": 308
+    },
+    "weathered-crisis-fragment": {
+        "itemId": 311
+    },
+    "simulacrum-splinter": {
+        "itemId": 303
+    },
+    "runic-splinter": {
+        "itemId": 4359
+    },
+    "breach-splinter": {
+        "itemId": 301
+    }
+}

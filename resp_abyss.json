@@ -1,0 +1,50 @@
+{
+    "kurgals-gaze": {
+        "itemId": 4395
+    },
+    "tecrods-gaze": {
+        "itemId": 4393
+    },
+    "amanamus-gaze": {
+        "itemId": 4391
+    },
+    "ancient-collarbone": {
+        "itemId": 4385
+    },
+    "ancient-jawbone": {
+        "itemId": 4373
+    },
+    "ancient-rib": {
+        "itemId": 4379
+    },
+    "gnawed-collarbone": {
+        "itemId": 4381
+    },
+    "ulamans-gaze": {
+        "itemId": 4397
+    },
+    "gnawed-jawbone": {
+        "itemId": 4369
+    },
+    "preserved-collarbone": {
+        "itemId": 4383
+    },
+    "preserved-vertebrae": {
+        "itemId": 4389
+    },
+    "preserved-cranium": {
+        "itemId": 4387
+    },
+    "abyss-key": {
+        "itemId": 4399
+    },
+    "preserved-jawbone": {
+        "itemId": 4371
+    },
+    "gnawed-rib": {
+        "itemId": 4375
+    },
+    "preserved-rib": {
+        "itemId": 4377
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "concentrated-liquid-isolation": {
+        "itemId": 4307
+    },
+    "concentrated-liquid-suffering": {
+        "itemId": 4305
+    },
+    "concentrated-liquid-fear": {
+        "itemId": 4303
+    },
+    "liquid-despair": {
+        "itemId": 4301
+    },
+    "liquid-disgust": {
+        "itemId": 4299
+    },
+    "liquid-envy": {
+        "itemId": 4297
+    },
+    "liquid-paranoia": {
+        "itemId": 4295
+    },
+    "diluted-liquid-greed": {
+        "itemId": 4293
+    },
+    "diluted-liquid-guilt": {
+        "itemId": 4291
+    },
+    "diluted-liquid-ire": {
+        "itemId": 4289
+    }
+}
