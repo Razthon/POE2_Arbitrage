@@ -7,6 +7,7 @@ from decimal import Decimal
 # CONFIG / CURRENCY IDS
 # ==========================
 
+# These are the IDs of the currencies in the game.
 EXALTED   = 290
 DIVINE    = 291
 CHAOS     = 287
